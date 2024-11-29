@@ -1,0 +1,5 @@
+# Example configuration for UofT clubs scraping
+level: 2
+url: "https://sop.utoronto.ca/groups/?campus=st-george"
+level1_prompt: "Extract all the club names and their corresponding URLs. Make sure to scroll down and get all the clubs. Return as a JSON array with 'name' and 'url' fields."
+level2_prompt: "Extract the following information: club name, description, all social media links (Instagram, Facebook), phone number,and email address. Format as a JSON object."   

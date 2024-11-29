@@ -1,0 +1,10 @@
+# Example configuration for UofT clubs scraping
+level: 1
+url: "https://sop.utoronto.ca/group/the-society-for-ai-literacy-at-the-university-of-toronto-sailuoft/"
+level1_prompt: "Get the name of the club, the description, the contact information like phone number and email. Also get the urls for the social links like instagram and facebook."
+# level2_prompt: "Extract the following information: club name, description, all social media links (Instagram, Facebook), and email address. Format as a JSON object."
+
+
+
+
+

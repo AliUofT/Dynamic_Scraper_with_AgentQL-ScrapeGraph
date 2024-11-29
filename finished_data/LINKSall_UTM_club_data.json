@@ -1,0 +1,961 @@
+{
+  "source_url": "https://sop.utoronto.ca/groups/?campus=utm",
+  "clubs": [
+    {
+      "Name": "A Better Day Tomorrow (ABDT)",
+      "URL": "https://sop.utoronto.ca/group/a-better-day-tomorrow-abdt/"
+    },
+    {
+      "Name": "A.I & Cognitive Science Association UTM (AICS)",
+      "URL": "https://sop.utoronto.ca/group/a-i-cognitive-science-society-utm-aics/"
+    },
+    {
+      "Name": "ACE UTM",
+      "URL": "https://sop.utoronto.ca/group/ace-utm/"
+    },
+    {
+      "Name": "Afghan Students Association",
+      "URL": "https://sop.utoronto.ca/group/afghan-students-association-3/"
+    },
+    {
+      "Name": "African Students Association",
+      "URL": "https://sop.utoronto.ca/group/african-students-association-3/"
+    },
+    {
+      "Name": "Ahmadiyya Muslim Students’ Association (AMSA)",
+      "URL": "https://sop.utoronto.ca/group/ahmadiyya-muslim-student-association-amsa/"
+    },
+    {
+      "Name": "Ahmadiyya Muslim Women Students Association (AMWSA)",
+      "URL": "https://sop.utoronto.ca/group/ahmadiyya-muslim-students-women-association-amswa/"
+    },
+    {
+      "Name": "Armenian Students Association",
+      "URL": "https://sop.utoronto.ca/group/armenian-students-association/"
+    },
+    {
+      "Name": "Aspiring Physicians of Tomorrow",
+      "URL": "https://sop.utoronto.ca/group/aspiring-physicians-of-tomorrow-2/"
+    },
+    {
+      "Name": "Association of Palestinian Students (APS)",
+      "URL": "https://sop.utoronto.ca/group/association-of-palestinian-students-aps/"
+    },
+    {
+      "Name": "Association of Part-Time Undergraduate Students (APUS)",
+      "URL": "https://sop.utoronto.ca/group/u-of-t-society-association-of-part-time-undergraduate-students-apus/"
+    },
+    {
+      "Name": "Avad Adventist Christian Fellowship",
+      "URL": "https://sop.utoronto.ca/group/avad-adventist-christian-fellowship/"
+    },
+    {
+      "Name": "Baptist Student Ministries UTM",
+      "URL": "https://sop.utoronto.ca/group/copy-of-baptist-student-ministries-utm-2/"
+    },
+    {
+      "Name": "Because I am a Girl – UTM Chapter",
+      "URL": "https://sop.utoronto.ca/group/because-i-am-a-girl-utm-chapter/"
+    },
+    {
+      "Name": "Believer’s LoveWorld UTM (BLWUTM)",
+      "URL": "https://sop.utoronto.ca/group/believers-loveworld-utm/"
+    },
+    {
+      "Name": "Black Future Lawyer’s Club (BFL UTM)",
+      "URL": "https://sop.utoronto.ca/group/black-future-lawyers-club-bfl-utm/"
+    },
+    {
+      "Name": "Black In STEM UTM (BIS)",
+      "URL": "https://sop.utoronto.ca/group/black-in-stem-utm-bis/"
+    },
+    {
+      "Name": "Black Literature and Arts Club",
+      "URL": "https://sop.utoronto.ca/group/black-literature-and-arts-club/"
+    },
+    {
+      "Name": "Canadian Asian Student Society",
+      "URL": "https://sop.utoronto.ca/group/canadian-asian-student-society-utm/"
+    },
+    {
+      "Name": "Cancer Awareness Student Organization (CASO)",
+      "URL": "https://sop.utoronto.ca/group/cancer-awareness-student-organization-caso/"
+    },
+    {
+      "Name": "Caribbean Connections",
+      "URL": "https://sop.utoronto.ca/group/caribbean-connections-2/"
+    },
+    {
+      "Name": "Champions of Change UTM (COCUTM)",
+      "URL": "https://sop.utoronto.ca/group/champions-of-change-utm/"
+    },
+    {
+      "Name": "Channel6ix Film Studio",
+      "URL": "https://sop.utoronto.ca/group/channel-6ix/"
+    },
+    {
+      "Name": "Chemical and Physical Sciences Graduate Student Association (CPS GSA)",
+      "URL": "https://sop.utoronto.ca/group/chemical-and-physical-sciences-graduate-student-association-cps-gsa/"
+    },
+    {
+      "Name": "Chinese Undergraduate Student Association at the University of Toronto Mississauga (CUAUTM)",
+      "URL": "https://sop.utoronto.ca/group/chinese-undergraduate-student-association-at-the-university-of-toronto-mississauga-cuautm/"
+    },
+    {
+      "Name": "CIUT 89.5 FM (U of T Community Radio)",
+      "URL": "https://sop.utoronto.ca/group/ciut-89-5-fm-u-of-t-community-radio/"
+    },
+    {
+      "Name": "Club Italia",
+      "URL": "https://sop.utoronto.ca/group/club-italia/"
+    },
+    {
+      "Name": "CraMCATs",
+      "URL": "https://sop.utoronto.ca/group/cramcats/"
+    },
+    {
+      "Name": "Desi Student Association (DSA)",
+      "URL": "https://sop.utoronto.ca/group/desi-student-administration-dsa/"
+    },
+    {
+      "Name": "DesignUTM",
+      "URL": "https://sop.utoronto.ca/group/designutm/"
+    },
+    {
+      "Name": "Digital Enterprise Management Association (DEMA)",
+      "URL": "https://sop.utoronto.ca/group/digital-enterprise-management-association-dema-2/"
+    },
+    {
+      "Name": "Dungeons & Dragons Club",
+      "URL": "https://sop.utoronto.ca/group/utm-against-dragons-utmad/"
+    },
+    {
+      "Name": "Egyptian Students’ Association – UTM",
+      "URL": "https://sop.utoronto.ca/group/egyptian-students-association-utm/"
+    },
+    {
+      "Name": "ENACTUS UTM",
+      "URL": "https://sop.utoronto.ca/group/enactus-utm/"
+    },
+    {
+      "Name": "Erindale Gaming Organization",
+      "URL": "https://sop.utoronto.ca/group/erindale-gaming-organization/"
+    },
+    {
+      "Name": "Erindale Punjabi Association (EPA)",
+      "URL": "https://sop.utoronto.ca/group/erindale-punjabi-association-epa-2/"
+    },
+    {
+      "Name": "Étudiants Francophones de UTM (EFUTM)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-les-etudiants-francophones-de-uoft/"
+    },
+    {
+      "Name": "EXCEL1ENCE (X1)",
+      "URL": "https://sop.utoronto.ca/group/excel1ence-x1/"
+    },
+    {
+      "Name": "Feed the Future UTM",
+      "URL": "https://sop.utoronto.ca/group/feed-the-future-utm/"
+    },
+    {
+      "Name": "Filipino Student Association",
+      "URL": "https://sop.utoronto.ca/group/filipino-student-association/"
+    },
+    {
+      "Name": "Fintech Association (UTMFA)",
+      "URL": "https://sop.utoronto.ca/group/fintech-associationfa/"
+    },
+    {
+      "Name": "Friends of Médecins Sans Frontières (Doctors without Borders) – UTM Chapter (FoMSF-UTM)",
+      "URL": "https://sop.utoronto.ca/group/friends-of-medecins-sans-frontieres-doctors-without-borders-utm-chapter-fomsf-utm/"
+    },
+    {
+      "Name": "Harmonix Music Club (HMC)",
+      "URL": "https://sop.utoronto.ca/group/harmonix/"
+    },
+    {
+      "Name": "Hart House – U of T Film Festival",
+      "URL": "https://sop.utoronto.ca/group/hart-house-u-of-t-film-festival/"
+    },
+    {
+      "Name": "Hart House Jazz Choir",
+      "URL": "https://sop.utoronto.ca/group/hart-house-jazz-choir/"
+    },
+    {
+      "Name": "Hart House Jazz Ensemble",
+      "URL": "https://sop.utoronto.ca/group/hart-house-jazz-ensemble/"
+    },
+    {
+      "Name": "Hart House Orchestra",
+      "URL": "https://sop.utoronto.ca/group/hart-house-orchestra/"
+    },
+    {
+      "Name": "Hart House Singers",
+      "URL": "https://sop.utoronto.ca/group/hart-house-singers/"
+    },
+    {
+      "Name": "Hart House Student Debates & Dialogue Committee",
+      "URL": "https://sop.utoronto.ca/group/hart-house-student-debates-dialogue-committee/"
+    },
+    {
+      "Name": "Hart House Student Farm Committee",
+      "URL": "https://sop.utoronto.ca/group/hart-house-student-farm-committee/"
+    },
+    {
+      "Name": "Hart House Student Literary & Library Committee",
+      "URL": "https://sop.utoronto.ca/group/hart-house-student-literary-library-committee/"
+    },
+    {
+      "Name": "Hart House Student Music Committee",
+      "URL": "https://sop.utoronto.ca/group/hart-house-student-music-committee/"
+    },
+    {
+      "Name": "Hart House Student Social Justice Committee",
+      "URL": "https://sop.utoronto.ca/group/hart-house-student-social-justice-committee/"
+    },
+    {
+      "Name": "Hart House Student Theatre Committee",
+      "URL": "https://sop.utoronto.ca/group/hart-house-student-theatre-committee/"
+    },
+    {
+      "Name": "Hart House Symphonic Band",
+      "URL": "https://sop.utoronto.ca/group/hart-house-symphonic-band/"
+    },
+    {
+      "Name": "Hart House Underwater Club",
+      "URL": "https://sop.utoronto.ca/group/hart-house-underwater-club/"
+    },
+    {
+      "Name": "Healing Hearts Initiative (HHI)",
+      "URL": "https://sop.utoronto.ca/group/healing-hearts-initiative-hhi/"
+    },
+    {
+      "Name": "Health, Law and Business Association at UTM",
+      "URL": "https://sop.utoronto.ca/group/health-law-and-business-association-at-utm-2/"
+    },
+    {
+      "Name": "Hearts to hearts student association (HTH)",
+      "URL": "https://sop.utoronto.ca/group/hearts-to-hearts-student-association-hth/"
+    },
+    {
+      "Name": "Humanity First UofT",
+      "URL": "https://sop.utoronto.ca/group/humanity-first-uoft/"
+    },
+    {
+      "Name": "ICCIT Council",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-iccit-council/"
+    },
+    {
+      "Name": "Indian Students Association",
+      "URL": "https://sop.utoronto.ca/group/indian-students-association-3/"
+    },
+    {
+      "Name": "Indus Hospital UTM (IH UTM)",
+      "URL": "https://sop.utoronto.ca/group/indus-hospital-utm-ih-utm/"
+    },
+    {
+      "Name": "Integrated Brain Research Club",
+      "URL": "https://sop.utoronto.ca/group/integrated-brain-research-club/"
+    },
+    {
+      "Name": "Iranian Heritage and Culture Society",
+      "URL": "https://sop.utoronto.ca/group/iranian-heritage-and-culture-society/"
+    },
+    {
+      "Name": "Iraqi Student Community at University of Toronto Mississauga (UTMISC)",
+      "URL": "https://sop.utoronto.ca/group/iraqi-student-community-at-university-of-toronto-mississauga-utmisc/"
+    },
+    {
+      "Name": "Islamic Relief at UTM (IR UTM)",
+      "URL": "https://sop.utoronto.ca/group/islamic-relief-at-utm-ir-utm/"
+    },
+    {
+      "Name": "Japanese Association at Mississauga",
+      "URL": "https://sop.utoronto.ca/group/japanese-association-at-mississauga/"
+    },
+    {
+      "Name": "Jewish Student Association",
+      "URL": "https://sop.utoronto.ca/group/jewish-student-association/"
+    },
+    {
+      "Name": "John Tuzo Wilson Geology Club (JTWGEOCLUB)",
+      "URL": "https://sop.utoronto.ca/group/john-tuzo-wilson-geology-club-jtwgeoclub/"
+    },
+    {
+      "Name": "KJH Dance Club (KJHDC)",
+      "URL": "https://sop.utoronto.ca/group/k-pop-jazzfunk-heels-dance-club-kjhdc/"
+    },
+    {
+      "Name": "Laadliyan",
+      "URL": "https://sop.utoronto.ca/group/laadliyan/"
+    },
+    {
+      "Name": "Latin American Students’ Association (LASA)",
+      "URL": "https://sop.utoronto.ca/group/latin-american-students-association-lasa/"
+    },
+    {
+      "Name": "Lebanese Student Association",
+      "URL": "https://sop.utoronto.ca/group/lebanese-student-associationn/"
+    },
+    {
+      "Name": "Lehra Ke",
+      "URL": "https://sop.utoronto.ca/group/lehra-ke/"
+    },
+    {
+      "Name": "LIFT Church",
+      "URL": "https://sop.utoronto.ca/group/lift-church/"
+    },
+    {
+      "Name": "Mandarin International Student Christian Fellowship (MICF)",
+      "URL": "https://sop.utoronto.ca/group/mandarin-international-student-christian-fellowship-micf/"
+    },
+    {
+      "Name": "Medicine4Youth UTM Chapter",
+      "URL": "https://sop.utoronto.ca/group/medicine4youth-utm-chapter/"
+    },
+    {
+      "Name": "Mending Minds UTM (MMUTM)",
+      "URL": "https://sop.utoronto.ca/group/mending-minds-utm-mmutm/"
+    },
+    {
+      "Name": "Menstruation Redefined UTM",
+      "URL": "https://sop.utoronto.ca/group/menstruation-redefined-utm-2/"
+    },
+    {
+      "Name": "Middle Eastern Students’ Association",
+      "URL": "https://sop.utoronto.ca/group/mesa-middle-eastern-student-association/"
+    },
+    {
+      "Name": "MKTGx",
+      "URL": "https://sop.utoronto.ca/group/mktgx-2/"
+    },
+    {
+      "Name": "Mood Psychology@UTM",
+      "URL": "https://sop.utoronto.ca/group/mood-psychologyutm/"
+    },
+    {
+      "Name": "Muslim Students’ Association",
+      "URL": "https://sop.utoronto.ca/group/muslim-students-association/"
+    },
+    {
+      "Name": "New World Association",
+      "URL": "https://sop.utoronto.ca/group/new-world-association/"
+    },
+    {
+      "Name": "Northern Justice Watch – UTM (NJW – UTM)",
+      "URL": "https://sop.utoronto.ca/group/northern-justice-watch-utm-njw-utm/"
+    },
+    {
+      "Name": "NuMonic Dance Team",
+      "URL": "https://sop.utoronto.ca/group/numonic-dance-team-2-2/"
+    },
+    {
+      "Name": "Overcoming Educational Barriers (OEB)",
+      "URL": "https://sop.utoronto.ca/group/overcoming-educational-barriers-oeb/"
+    },
+    {
+      "Name": "Pakistan Student Association UTM (PSAUTM)",
+      "URL": "https://sop.utoronto.ca/group/pakistan-student-association-utm-psautm/"
+    },
+    {
+      "Name": "Pakistani-Punjabi Association (PPA)",
+      "URL": "https://sop.utoronto.ca/group/pakistani-punjabi-association-ppa/"
+    },
+    {
+      "Name": "Penny Appeal Advocates",
+      "URL": "https://sop.utoronto.ca/group/penny-appeal-advocates/"
+    },
+    {
+      "Name": "Pet the Pets (PTP)",
+      "URL": "https://sop.utoronto.ca/group/pet-the-pets-ptp/"
+    },
+    {
+      "Name": "Polish Student Association at UTM",
+      "URL": "https://sop.utoronto.ca/group/polish-student-association-at-utm/"
+    },
+    {
+      "Name": "Psychology Association of Undergraduate Students at Erindale",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-psychology-assoc-of-undergrad-students-at-erindale-pause/"
+    },
+    {
+      "Name": "Queer Society at UTM (QSU)",
+      "URL": "https://sop.utoronto.ca/group/queer-society-at-utm-qsu/"
+    },
+    {
+      "Name": "Raas Khelaiya",
+      "URL": "https://sop.utoronto.ca/group/raas-khelaiya-3/"
+    },
+    {
+      "Name": "Raas Khelaiya",
+      "URL": "https://sop.utoronto.ca/group/raas-khelaiya-2/"
+    },
+    {
+      "Name": "RCHV Creative Collective",
+      "URL": "https://sop.utoronto.ca/group/rchv-creative-collective/"
+    },
+    {
+      "Name": "Regenesis UTM",
+      "URL": "https://sop.utoronto.ca/group/regenesis-utm/"
+    },
+    {
+      "Name": "Right to Play UTM",
+      "URL": "https://sop.utoronto.ca/group/right-to-play-utm-rtp-utm/"
+    },
+    {
+      "Name": "ROCSAUT",
+      "URL": "https://sop.utoronto.ca/group/rocsaut/"
+    },
+    {
+      "Name": "Sending Sunshine",
+      "URL": "https://sop.utoronto.ca/group/sending-sunshine-chapter/"
+    },
+    {
+      "Name": "Serbian Student Association UTM",
+      "URL": "https://sop.utoronto.ca/group/serbian-student-association-utm/"
+    },
+    {
+      "Name": "Singaporean Malaysian Student Association (SMSA)",
+      "URL": "https://sop.utoronto.ca/group/singaporean-malaysian-student-association-smsa/"
+    },
+    {
+      "Name": "South Indian Student Association (SISA)",
+      "URL": "https://sop.utoronto.ca/group/south-indian-student-association-sisa/"
+    },
+    {
+      "Name": "Start2Finish UTM (S2FUTM)",
+      "URL": "https://sop.utoronto.ca/group/start2finish-utm-s2futm/"
+    },
+    {
+      "Name": "Student Snack Shack (SSS)",
+      "URL": "https://sop.utoronto.ca/group/student-snack-shack-sss/"
+    },
+    {
+      "Name": "Students For Action",
+      "URL": "https://sop.utoronto.ca/group/students-for-action/"
+    },
+    {
+      "Name": "Students for Campfire Circle (SFCC)",
+      "URL": "https://sop.utoronto.ca/group/students-for-campfire-circle-sfcc/"
+    },
+    {
+      "Name": "Studio X",
+      "URL": "https://sop.utoronto.ca/group/utm-studio-x/"
+    },
+    {
+      "Name": "Sudanese Students’ Union (SSU)",
+      "URL": "https://sop.utoronto.ca/group/sudanese-students-union-ssu-utm/"
+    },
+    {
+      "Name": "TEDxUofTMississauga",
+      "URL": "https://sop.utoronto.ca/group/tedxuoftmississauga-2/"
+    },
+    {
+      "Name": "Thaqalayn Muslim Association UTM",
+      "URL": "https://sop.utoronto.ca/group/thaqalayn-muslim-association-utm/"
+    },
+    {
+      "Name": "The Association for Growth and Peer Experiences (AGAPĒ)",
+      "URL": "https://sop.utoronto.ca/group/the-association-for-growth-and-peer-experiences-agape/"
+    },
+    {
+      "Name": "The Bhakti Yoga Club",
+      "URL": "https://sop.utoronto.ca/group/the-bhakti-yoga-club/"
+    },
+    {
+      "Name": "The Citizens Foundation UTM",
+      "URL": "https://sop.utoronto.ca/group/the-citizens-foundation-utm/"
+    },
+    {
+      "Name": "The Syrian Students’ Association (UTMSyria)",
+      "URL": "https://sop.utoronto.ca/group/the-syrian-students-association-utmsyria/"
+    },
+    {
+      "Name": "The University of Toronto Mississauga Academic Trivia Club (UTMATC)",
+      "URL": "https://sop.utoronto.ca/group/the-university-of-toronto-mississauga-academic-trivia-club-utmatc/"
+    },
+    {
+      "Name": "Turkish Students’ Association at University of Toronto Mississauga (UTM TSA)",
+      "URL": "https://sop.utoronto.ca/group/turkish-students-association-at-university-of-toronto-mississauga-utm-tsa/"
+    },
+    {
+      "Name": "Ukrainian Association of UTM",
+      "URL": "https://sop.utoronto.ca/group/ukrainian-association-of-utm/"
+    },
+    {
+      "Name": "Undergraduate Economics Council (UEC)",
+      "URL": "https://sop.utoronto.ca/group/undergraduate-economics-council-uec/"
+    },
+    {
+      "Name": "UNICEF UTM",
+      "URL": "https://sop.utoronto.ca/group/unicef-utm/"
+    },
+    {
+      "Name": "Univeristy of Toronto Mississauga Black Students’ Association",
+      "URL": "https://sop.utoronto.ca/group/black-students-association/"
+    },
+    {
+      "Name": "University of Toronto Card Game Club (UTCGC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-card-game-club-utcgc/"
+    },
+    {
+      "Name": "University of Toronto Erindale Hong Kong Students’ Association (UTEHKSA)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-erindale-hong-kong-student-association/"
+    },
+    {
+      "Name": "University of Toronto Erindale Table Tennis Club (UTETTC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-erindale-table-tennis-club-utettc/"
+    },
+    {
+      "Name": "University of Toronto Finance and Economics Association (UTCFEA)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-finance-and-economics-association-utcfea/"
+    },
+    {
+      "Name": "University of Toronto Media Studio (UTMS)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-media-studio-utms/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Neuroscience Club (UTMNC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-neuroscience-club-utmnc/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Advocacy and Litigation Team",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-advocacy-and-litigation-team/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Black Students Association (UTM BSA or BSA)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-black-students-association/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Chinese Academic and Professional Society  (UTMCAPS)",
+      "URL": "https://sop.utoronto.ca/group/chinese-academic-and-professional-society-caps/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Chinese Event (UTMCE)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-chinese-event-utmce/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Finance Careers Club (UTMFCC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-chartered-financial-finance-careers-club/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Global Brigades (utmgb)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-global-brigades-utmgb/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Global Health Organization (UTMGHO)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-global-health-organization-utmgho-2/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Korean Students’ Association (UTMKRSA)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-korean-students-association-utmkrsa/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Mental Health Student Association (UTM MHSA)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-mental-health-student-association-utm-mhsa/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Mock Trial Club",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-mock-trial-club/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Oncology Society (UofTMOS)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-oncology-society-uoftmos/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Physics Club (UTMPC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-physics-club/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Poker Club",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-poker-club/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Pre-Medical Club (UTMPMC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-pre-medical-club-utmpmc/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Sikh Student Association",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-sikh-student-association/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Software Hub (UTMSH)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-software-hub-utmsh/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Student Anime Network (UTM-SAN)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-student-anime-network-utm-san/"
+    },
+    {
+      "Name": "University of Toronto Mississauga Young Liberals",
+      "URL": "https://sop.utoronto.ca/group/utm-liberals/"
+    },
+    {
+      "Name": "University of Toronto Social Science Student Association",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-social-science-student-association/"
+    },
+    {
+      "Name": "University of Toronto Student Environmental Resource Network (UTERN)",
+      "URL": "https://sop.utoronto.ca/group/environmental-student-resource-network-utern/"
+    },
+    {
+      "Name": "UofT Mapping Club",
+      "URL": "https://sop.utoronto.ca/group/uoft-mapping-club/"
+    },
+    {
+      "Name": "UofT Undergraduate Research Students’ Association (UTM)",
+      "URL": "https://sop.utoronto.ca/group/utm-undergraduate-research-students-association/"
+    },
+    {
+      "Name": "Urbanism Club (UC)",
+      "URL": "https://sop.utoronto.ca/group/urbanism-club-uc/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Concurrent Teacher Education Society (CTES)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-concurrent-teacher-education-society-ctes/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Department of Visual Studies Student Society",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-department-of-visual-studies-student-society/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Institute of Management & Innovation Business Association (IMI Business Association)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-institute-of-management-innovation-business-association-imi-business-association/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Philosophy Academic Society",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-philosophy-academic-society/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Sociology & Criminology Society (SCS)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-sociology-criminology-society-scs/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Undergraduate Commerce Society (UCS)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-undergraduate-commerce-society-ucs/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Erindale Biology Society (EBS)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-erindale-biology-society/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Erindale Society of Chemical & Physical Sciences",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-erindale-society-of-chemical-physical-sciences/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Forensics Society",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-forensics-society/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Historical Studies Society at UTM",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-historical-studies-society-at-utm/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Language Studies Academic Society",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-language-studies-academic-society/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Mathematical and Computational Sciences Society (MCSS)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-mathematical-and-computational-sciences-society-mcss/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Political Science & Pre-Law Association (PSLA)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-political-science-pre-law-association-psla/"
+    },
+    {
+      "Name": "UTM ACADEMIC SOC – Student Association of Geography and Environment (SAGE)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-student-association-of-geography-and-environment-sage/"
+    },
+    {
+      "Name": "UTM Accounting Society (UTM AS)",
+      "URL": "https://sop.utoronto.ca/group/utm-accounting-society-utm-as/"
+    },
+    {
+      "Name": "UTM AFFILIATE  – Sexual Education & Peer Support Centre",
+      "URL": "https://sop.utoronto.ca/group/utm-affiliate-sexual-education-peer-support-centre/"
+    },
+    {
+      "Name": "UTM AFFILIATE – Erindale College Special Response Team (ECSpeRT)",
+      "URL": "https://sop.utoronto.ca/group/utm-affiliate-erindale-college-special-response-team-ecspert/"
+    },
+    {
+      "Name": "UTM Anthropology Society (UTMAS)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-utm-anthropology-society/"
+    },
+    {
+      "Name": "UTM Archery",
+      "URL": "https://sop.utoronto.ca/group/utm-archery/"
+    },
+    {
+      "Name": "UTM Art Club (UTAC)",
+      "URL": "https://sop.utoronto.ca/group/utm-art-club-utac/"
+    },
+    {
+      "Name": "UTM Association of Graduate Student (UTMAGS)",
+      "URL": "https://sop.utoronto.ca/group/utm-association-of-graduate-student-utmags/"
+    },
+    {
+      "Name": "UTM Barbell (UTMBB)",
+      "URL": "https://sop.utoronto.ca/group/utm-barbell-utmbb/"
+    },
+    {
+      "Name": "UTM Bollywood Club",
+      "URL": "https://sop.utoronto.ca/group/utm-bollywood-club/"
+    },
+    {
+      "Name": "UTM Book Discovery Club (UTMBD)",
+      "URL": "https://sop.utoronto.ca/group/utm-book-discovery-club-utmbd/"
+    },
+    {
+      "Name": "UTM Book Discovery Club (UTMBD)",
+      "URL": "https://sop.utoronto.ca/group/utm-book-discovery-club-utmbd-2/"
+    },
+    {
+      "Name": "UTM Breaking Club",
+      "URL": "https://sop.utoronto.ca/group/utm-breaking-club/"
+    },
+    {
+      "Name": "UTM Campus Christian Fellowship",
+      "URL": "https://sop.utoronto.ca/group/utm-campus-christian-fellowship/"
+    },
+    {
+      "Name": "UTM Campus Conservatives",
+      "URL": "https://sop.utoronto.ca/group/utm-campus-conservatives-2/"
+    },
+    {
+      "Name": "UTM Capital (UTMCAP)",
+      "URL": "https://sop.utoronto.ca/group/utm-capital-utmcap/"
+    },
+    {
+      "Name": "UTM Capital Management",
+      "URL": "https://sop.utoronto.ca/group/utm-capital-management-2/"
+    },
+    {
+      "Name": "UTM Car Culture Club (UTMCCC)",
+      "URL": "https://sop.utoronto.ca/group/utm-car-culture-club-utmccc/"
+    },
+    {
+      "Name": "UTM Catholic Students Club",
+      "URL": "https://sop.utoronto.ca/group/utm-catholic-students-club/"
+    },
+    {
+      "Name": "UTM Chess Club",
+      "URL": "https://sop.utoronto.ca/group/utm-chess-club/"
+    },
+    {
+      "Name": "UTM Climbing Club (UTMCC)",
+      "URL": "https://sop.utoronto.ca/group/utm-climbing-club-utmcc/"
+    },
+    {
+      "Name": "UTM Comedy Club",
+      "URL": "https://sop.utoronto.ca/group/utm-comedy-club/"
+    },
+    {
+      "Name": "UTM Conservative Club",
+      "URL": "https://sop.utoronto.ca/group/utm-campus-conservatives-3/"
+    },
+    {
+      "Name": "UTM Craft Club (CC@UTM)",
+      "URL": "https://sop.utoronto.ca/group/utm-craft-club-ccutm/"
+    },
+    {
+      "Name": "UTM Creators Club (CC UTM)",
+      "URL": "https://sop.utoronto.ca/group/utm-creators-club-cc-utm/"
+    },
+    {
+      "Name": "UTM Cricket Club",
+      "URL": "https://sop.utoronto.ca/group/utm-cricket-club/"
+    },
+    {
+      "Name": "UTM Crochet Club (UTMCC)",
+      "URL": "https://sop.utoronto.ca/group/utm-crochet-club-utmcc/"
+    },
+    {
+      "Name": "UTM Dance Team",
+      "URL": "https://sop.utoronto.ca/group/utm-dance-team-3/"
+    },
+    {
+      "Name": "UTM Debate Club",
+      "URL": "https://sop.utoronto.ca/group/debate-club-utmdc/"
+    },
+    {
+      "Name": "UTM English & Drama Student Society (EDSS)",
+      "URL": "https://sop.utoronto.ca/group/utm-academic-soc-english-drama-students-society/"
+    },
+    {
+      "Name": "UTM Esports",
+      "URL": "https://sop.utoronto.ca/group/esports/"
+    },
+    {
+      "Name": "UTM Fight for Hope (UTMFFH)",
+      "URL": "https://sop.utoronto.ca/group/utm-fight-for-hope-utmffh/"
+    },
+    {
+      "Name": "UTM Film Club",
+      "URL": "https://sop.utoronto.ca/group/utm-film-club/"
+    },
+    {
+      "Name": "UTM Ignite!",
+      "URL": "https://sop.utoronto.ca/group/utm-ignite/"
+    },
+    {
+      "Name": "UTM Karting",
+      "URL": "https://sop.utoronto.ca/group/utm-karting/"
+    },
+    {
+      "Name": "UTM KPOP + SYNIX",
+      "URL": "https://sop.utoronto.ca/group/utm-kpop-synix/"
+    },
+    {
+      "Name": "UTM Martial Arts",
+      "URL": "https://sop.utoronto.ca/group/utm-martial-arts-uoft-mma/"
+    },
+    {
+      "Name": "UTM MedLife",
+      "URL": "https://sop.utoronto.ca/group/utm-medlife/"
+    },
+    {
+      "Name": "UTM Miscarriages of Justice (UTMMJ)",
+      "URL": "https://sop.utoronto.ca/group/utm-miscarriages-of-justice-utmmj/"
+    },
+    {
+      "Name": "UTM Model United Nations (MUN)",
+      "URL": "https://sop.utoronto.ca/group/utm-model-united-nations/"
+    },
+    {
+      "Name": "UTM Naacho (UTMN)",
+      "URL": "https://sop.utoronto.ca/group/utm-naacho-utmn/"
+    },
+    {
+      "Name": "UTM NextGen Lifeline",
+      "URL": "https://sop.utoronto.ca/group/utm-nextgen-lifeline-2/"
+    },
+    {
+      "Name": "UTM Paleontology Club (UPC)",
+      "URL": "https://sop.utoronto.ca/group/paleontology-club/"
+    },
+    {
+      "Name": "UTM PeerMinds",
+      "URL": "https://sop.utoronto.ca/group/utm-peerminds/"
+    },
+    {
+      "Name": "UTM Poetry Club (UTMPC)",
+      "URL": "https://sop.utoronto.ca/group/university-of-toronto-mississauga-poetry-club/"
+    },
+    {
+      "Name": "UTM Positive Minds Club (UTMPMC)",
+      "URL": "https://sop.utoronto.ca/group/utm-positive-minds-club-utmpmc/"
+    },
+    {
+      "Name": "UTM Pre-Dental Club (utmpdc)",
+      "URL": "https://sop.utoronto.ca/group/utm-pre-dental-club/"
+    },
+    {
+      "Name": "UTM Pre-Law Organization (UTMPLO)",
+      "URL": "https://sop.utoronto.ca/group/utm-pre-law-organization-utmplo/"
+    },
+    {
+      "Name": "UTM Regenerative Medicine Club",
+      "URL": "https://sop.utoronto.ca/group/utm-regenerative-medicine-club/"
+    },
+    {
+      "Name": "UTM Robotics Club",
+      "URL": "https://sop.utoronto.ca/group/utm-robotics-club/"
+    },
+    {
+      "Name": "UTM Rotaract Club",
+      "URL": "https://sop.utoronto.ca/group/utm-rotaract-club-3/"
+    },
+    {
+      "Name": "UTM Running Club",
+      "URL": "https://sop.utoronto.ca/group/utm-running-club/"
+    },
+    {
+      "Name": "UTM SOCIETY – CFRE Radio 91.9FM",
+      "URL": "https://sop.utoronto.ca/group/utm-society-cfre-radio-91-9fm/"
+    },
+    {
+      "Name": "UTM SOCIETY – Master of Management and Professional Accounting (MMPA)",
+      "URL": "https://sop.utoronto.ca/group/utm-society-master-of-management-and-professional-accounting-mmpa/"
+    },
+    {
+      "Name": "UTM SOCIETY – Medical Society",
+      "URL": "https://sop.utoronto.ca/group/utm-society-medical-society/"
+    },
+    {
+      "Name": "UTM SOCIETY – The Medium",
+      "URL": "https://sop.utoronto.ca/group/utm-society-the-medium/"
+    },
+    {
+      "Name": "UTM SOCIETY – UTM Association of Graduate Students (UTMAGS)",
+      "URL": "https://sop.utoronto.ca/group/utm-society-utm-association-of-graduate-students-utmags/"
+    },
+    {
+      "Name": "UTM SOCIETY – UTM Students’ Union (UTMSU)",
+      "URL": "https://sop.utoronto.ca/group/utm-society-utm-students-union-utmsu/"
+    },
+    {
+      "Name": "UTM Society For Algorithmic Modelling",
+      "URL": "https://sop.utoronto.ca/group/utm-society-for-algorithmic-modelling/"
+    },
+    {
+      "Name": "UTM SOCIETY- UTM Athletic Council (UTMAC)",
+      "URL": "https://sop.utoronto.ca/group/utm-society-utm-athletic-council-utmac/"
+    },
+    {
+      "Name": "UTM STEM Fellowship",
+      "URL": "https://sop.utoronto.ca/group/utm-stem-fellowship/"
+    },
+    {
+      "Name": "UTM Students for Liberty (UTM SFL)",
+      "URL": "https://sop.utoronto.ca/group/utm-students-for-liberty-utm-sfl/"
+    },
+    {
+      "Name": "UTM Students for SickKids (SFS)",
+      "URL": "https://sop.utoronto.ca/group/utm-students-for-sickkids-sfs/"
+    },
+    {
+      "Name": "UTM Vietnamese Student Association",
+      "URL": "https://sop.utoronto.ca/group/utm-vietnamese-student-association/"
+    },
+    {
+      "Name": "UTM Wildlife and Ornithology Club (UTWO)",
+      "URL": "https://sop.utoronto.ca/group/utm-wildlife-and-ornithology-club-utwo/"
+    },
+    {
+      "Name": "UTM Women and Gender Equity Centre (WGEC)",
+      "URL": "https://sop.utoronto.ca/group/utm-affiliate-womens-centre/"
+    },
+    {
+      "Name": "UTM Women Student Association (UTM WSA)",
+      "URL": "https://sop.utoronto.ca/group/women-student-association-utm/"
+    },
+    {
+      "Name": "UTM Women’s Health & Wellness Hub",
+      "URL": "https://sop.utoronto.ca/group/utm-womens-health-wellness-hub-2/"
+    },
+    {
+      "Name": "UTMCampusConnections (UTMCC)",
+      "URL": "https://sop.utoronto.ca/group/utmcampusconnections-utmcc/"
+    },
+    {
+      "Name": "Varsity Publications Inc.",
+      "URL": "https://sop.utoronto.ca/group/varsity-publications-inc/"
+    },
+    {
+      "Name": "Welfare Avenue Toronto (WAT)",
+      "URL": "https://sop.utoronto.ca/group/welfare-avenue-toronto-wat/"
+    },
+    {
+      "Name": "Women in Law Association",
+      "URL": "https://sop.utoronto.ca/group/women-in-law/"
+    },
+    {
+      "Name": "Women in Leadership (WIL)",
+      "URL": "https://sop.utoronto.ca/group/women-in-leadership-wil/"
+    },
+    {
+      "Name": "Women in Science and Computing",
+      "URL": "https://sop.utoronto.ca/group/women-in-science-and-computing/"
+    }
+  ]
+}
