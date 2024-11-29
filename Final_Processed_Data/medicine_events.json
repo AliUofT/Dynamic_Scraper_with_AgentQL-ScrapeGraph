@@ -1,0 +1,46 @@
+{
+  "source_url": "https://rhse.temertymedicine.utoronto.ca/events",
+  "total_items": 4,
+  "items": [
+    {
+      "Name": "Organoid Symposium & Workshop",
+      "URL": "https://rhse.temertymedicine.utoronto.ca/event/organoid-symposium-workshop",
+      "detailed_info": {
+        "title": "Organoid Symposium & Workshop",
+        "description": "The Stem Cell Network is excited to partner with the University of Toronto’s Applied Organoid Core, and the Network Biology Collaborative Centre (NBCC) at Mount Sinai to deliver the 2024 Organoid Symposium and Workshop: Generation and Applications of iPSC-Derived Organoid Models! Human pluripotent stem cell (hPSC)-derived organoid research offers unique opportunities to explore human disease, advance personalized drug discovery, and study complex biological processes such as development and disease progression.",
+        "date": "December 2-6, 2024",
+        "location": "Chestnut Conference Centre, Toronto, ON and University of Toronto, Medical Science Teaching Labs"
+      }
+    },
+    {
+      "Name": "BMS Teaching Seminar: SoTL in Health Sciences Education - getting your next education research project started",
+      "URL": "https://rhse.temertymedicine.utoronto.ca/event/bms-teaching-seminar-sotl-health-sciences-education-getting-your-next-education-research",
+      "detailed_info": {
+        "title": "BMS Teaching Seminar: SoTL in Health Sciences Education - getting your next education research project started",
+        "description": "Welcome to our Basic Medical Sciences Teaching Seminars! Topic: SoTL in Health Sciences Education - getting your next education research project started. Are you an educator interested in enhancing your teaching practices through the scholarship of teaching and learning (SoTL)? Do you feel uncertain or overwhelmed about where to begin? We invite you to join an engaging online seminar led by an experienced education researcher that will focus on practical strategies for designing and initiating your own educational research project within your course(s). In this interactive seminar, we will cover: The Importance of Educational Research, Getting Started, Simplifying Logistics, Real-World Examples. By the end of this seminar, participants will be equipped to confidently finalize their SoTL project ideas and embark on their research journey.",
+        "date": "Tuesday, February 4, 2025",
+        "location": "ACR (MS 2377)"
+      }
+    },
+    {
+      "Name": "BMS Teaching Seminar: Navigating your Mental Health as an Instructor",
+      "URL": "https://rhse.temertymedicine.utoronto.ca/event/bms-teaching-seminar-navigating-your-mental-health-instructor",
+      "detailed_info": {
+        "title": "BMS Teaching Seminar: Navigating your Mental Health as an Instructor",
+        "description": "As a university instructor, you face unique challenges that can strain your mental health—balancing increasing demands, adapting to new teaching modalities, and supporting students who often look to you for guidance beyond the classroom. The pandemic has only intensified these pressures, making it more important than ever to prioritize your well-being. This workshop, \"Navigating Your Mental Health as an Instructor,\" is designed to provide a safe and supportive space for instructors to explore the impact of these challenges. We will discuss the evolving role of instructors, who now often find themselves acting as both educators and emotional support for students, and how this dual role can take a toll on mental health. Key topics include: Understanding the additional challenges students face and how they affect your teaching experience. Addressing the pandemic’s lasting impact on mental health and the increasing demands placed on educators. Recognizing the importance of seeking help and the reduction of stigma surrounding mental health for instructors. The preference for in-person teaching and how to manage the transition back to the classroom while maintaining well-being. Join us to connect with fellow instructors, share experiences, and learn practical strategies to navigate these challenges and maintain your mental health. Together, we can foster a more resilient teaching community.",
+        "date": "Tuesday, March 19, 2025",
+        "location": "ACR (MS 2278)"
+      }
+    },
+    {
+      "Name": "Azrieli Brain Medicine Conference 2025",
+      "URL": "https://rhse.temertymedicine.utoronto.ca/event/azrieli-brain-medicine-conference-2025",
+      "detailed_info": {
+        "title": "Azrieli Brain Medicine Conference 2025",
+        "description": "We invite you to join us on May 9th at Schwartz Reisman Innovation Center, University of Toronto for our 2nd Annual Azrieli Brain Medicine Conference, with this year's theme focusing on, “Complex Symptoms, Collaborative Care: The New Approach to Brain Medicine”. Space is limited so please register at your earliest convenience.",
+        "date": "May 9, 2025",
+        "location": "Schwartz Reisman Innovation Center, University of Toronto"
+      }
+    }
+  ]
+}
